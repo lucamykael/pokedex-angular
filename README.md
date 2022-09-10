@@ -1,6 +1,6 @@
 # PokedexAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
+Projeto de uma Pokedex para praticar Angular.
 
 ## Development server
 
